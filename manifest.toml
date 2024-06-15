@@ -75,7 +75,6 @@ ram.runtime = "3G"
     main.default = 8095
 
     chat.default = 3010
-    chat.fixed = true
 
     clsi.default = 3013
     clsi.fixed = true
