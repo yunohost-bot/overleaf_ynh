@@ -82,10 +82,7 @@ ram.runtime = "3G"
     document_updater.fixed = true
 
     filestore.default = 3009
-
     history-v1.default = 3100
-    history-v1.fixed = true
-
     notifications.default = 3042
     project-history.default = 3054
     realtime.default = 3026
